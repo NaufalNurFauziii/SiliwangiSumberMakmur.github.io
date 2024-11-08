@@ -1336,6 +1336,28 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         top:0;
         z-index:-1
     }
+    .page-header-news{
+        background-image:url(../img/page-header-3.png);
+        background-repeat:no-repeat;
+        background-position:center center;
+        background-size:cover;
+        width:100%;
+        height:400px;
+        display:flex;
+        align-items:center;
+        position:relative;
+        z-index:1;
+    }
+    .page-header-news:before{
+        background-color:rgba(0,0,0,.1);
+        position:absolute;
+        content:"";
+        width:100%;
+        height:100%;
+        left:0;
+        top:0;
+        z-index:-1
+    }
     .page-content{}.page-content h2{
         color:#fff;
         font-size:36px
@@ -1521,6 +1543,9 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         background-color:#ff0707;
         border:1px solid #ff0707;
         color:#fff
+    }
+    .dl-menu a.active{
+        color: #ff0707;
     }
     .sidebar-wrap{
         padding-left:40px

@@ -353,6 +353,26 @@
 <script src="js/vendor/wow.min.js"></script>
 
 <script src="js/main.js"></script>
+<script>
+    function changeReadMore(section) {
+    const mycontent =
+        document.getElementById('mybox1id_' + section);
+    const mybutton =
+        document.getElementById('mybutton1id_' + section);
+    const span1 = document.getElementById("span1_" + section);
+
+    if (mycontent.style.display === 'none'
+        || mycontent.style.display === '') {
+        mycontent.style.display = 'inline';
+        span1.style.display = "none";
+        mybutton.textContent = 'Lebih Singkat';
+    } else {
+        mycontent.style.display = 'none';
+        mybutton.textContent = 'Lebih lengkap';
+        span1.style.display = "inline";
+    }
+}
+</script>
 </body>
 
 <!-- services-1.html  29 Nov 2019 03:33:45 GMT -->
