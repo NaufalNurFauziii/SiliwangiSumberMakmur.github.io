@@ -654,6 +654,17 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         color:#ff0707;
         margin-right:30px
     }
+    .about-us-container {
+        padding: 5% 10%;
+        background:url(../img/bg-dots.png) 0 0 repeat;
+    }
+    .about-us-container p {
+        text-align: justify;
+    }
+    .about-us-container li {
+        list-style: inline;
+        margin-left: 2rem;
+    }
     .service-section{
         position:relative;
         z-index:1
@@ -1231,6 +1242,10 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     .team-item:hover .overlay{
         visibility:visible;
         opacity:1
+    }
+    .organisasi-content img{
+        background-size:contain;
+        padding: 0 10% ;
     }
     .testimonial-section{
         position:relative;
