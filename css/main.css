@@ -900,6 +900,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         width:100%
     }
     .project-item .overlay{
+        /* background-image:url(../img/project-8.png); */
         background-color:rgba(255, 7, 7, 0.8);
         content:"";
         position:absolute;
@@ -910,13 +911,14 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         display:block;
         visibility:hidden;
         opacity:0;
-        z-index:1
+        z-index:1;
+        
     }
     .project-item:hover .overlay{
         visibility:visible;
         opacity:1;
         cursor:pointer;
-        transition:all 300ms ease
+        transition:all 300ms ease;
     }
     .projects-content{
         position:absolute;
@@ -1364,6 +1366,28 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         z-index:1;
     }
     .page-header-news:before{
+        background-color:rgba(0,0,0,.1);
+        position:absolute;
+        content:"";
+        width:100%;
+        height:100%;
+        left:0;
+        top:0;
+        z-index:-1
+    }
+    .page-header-drill{
+        background-image:url(../img/page-header-drill.png);
+        background-repeat:no-repeat;
+        background-position:center center;
+        background-size:cover;
+        width:100%;
+        height:400px;
+        display:flex;
+        align-items:center;
+        position:relative;
+        z-index:1;
+    }
+    .page-header-drill:before{
         background-color:rgba(0,0,0,.1);
         position:absolute;
         content:"";
@@ -2061,3 +2085,9 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         color:#fff;
         opacity:.8
     }
+
+/* halaman lini bisnis drill */
+.drill-description {
+    text-align: justify;
+    padding: 5% 10%;
+}
