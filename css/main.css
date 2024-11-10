@@ -590,7 +590,10 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         padding:0 25px
     }
     .primary-header .header-logo{
-        max-width:150px
+        max-width:50px
+    }
+    .widget-content img{
+        max-width: 135px;
     }
 }
 .primary-header-inner .header-right{
@@ -623,7 +626,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         position:relative
     }
     .primary-header .header-logo{
-        max-width:180px
+        max-width:100px
     }
     .viewport-lg .primary-header .header-menu-wrap{
         display:block!important
@@ -2009,7 +2012,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         border-bottom:1px solid #333
     }
     .widget-content{}.widget-content img{
-        margin-bottom:20px
+        margin-bottom:20px;
     }
     .widget-section .widget-content h4{
         color:#fff
