@@ -21,18 +21,18 @@ body{
 }
 ::-webkit-scrollbar-thumb{
     cursor:pointer;
-    background:#ff0707
+    background:#072700
 }
 ::selection{
-    background-color:#ff0707;
+    background-color:#072700;
     color:#fff
 }
 -webkit-::selection{
-    background-color:#ff0707;
+    background-color:#072700;
     color:#fff
 }
 ::-moz-selection{
-    background-color:#ff0707;
+    background-color:#072700;
     color:#fff
 }
 h1,h2,h3,h4,h5,h6{
@@ -239,7 +239,7 @@ button{
     left:0
 }
 .site-preloader-wrap .spinner{
-    background-color:#ff0707;
+    background-color:#072700;
     position:absolute;
     left:50%;
     top:50%;
@@ -280,7 +280,7 @@ button{
     margin-bottom:15px
 }
 .default-btn{
-    background-color:#ff0707;
+    background-color:#072700;
     text-transform:uppercase;
     font-family:work sans,sans-serif;
     color:#fff;
@@ -319,7 +319,7 @@ button{
     height:30px;
     left:calc(50% - 10px);
     top:calc(50% - 15px);
-    border:3px solid #ff0707;
+    border:3px solid #072700;
     opacity:.5;
     z-index:-1
 }
@@ -439,7 +439,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     -webkit-font-smoothing:antialiased
 }
 .header-menu-wrap ul li:hover>a{
-    color:#ff0707
+    color:#072700
 }
 .header-menu-wrap li ul{
     background-color:#fff;
@@ -486,7 +486,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     -webkit-font-smoothing:antialiased
 }
 .header-menu-wrap li li:hover>a{
-    color:#ff0707!important;
+    color:#072700!important;
     background-color:#f9f9f9
 }
 .header-menu-wrap li ul li ul{
@@ -606,7 +606,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     margin-left:20px
 }
 .header-right a.menu-btn{
-    background-color:#ff0707;
+    background-color:#072700;
     line-height:40px;
     color:#fff;
     border-radius:3px;
@@ -616,7 +616,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     padding:0 20px
 }
 .header-right a.menu-btn:hover{
-    background-color:#ff0707;
+    background-color:#072700;
     opacity:.8;
     color:#fff}
     .primary-header-inner{
@@ -654,7 +654,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     }
     .about-promo .about-promo-item i{
         font-size:70px;
-        color:#ff0707;
+        color:#072700;
         margin-right:30px
     }
     .about-us-container {
@@ -711,7 +711,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         z-index:1
     }
     .service-item .service-icon{
-        color:#ff0707;
+        color:#072700;
         font-size:60px;
         margin-bottom:10px
     }
@@ -720,7 +720,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         left:50%;
         bottom:50%;
         font-size:130px;
-        color:#ff0707;
+        color:#072700;
         opacity:.09;
         transform:translate(-50%,50%);
         z-index:-1
@@ -740,7 +740,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         opacity:.8
     }
     .service-item:hover{
-        background-color:#ff0707; 
+        background-color:#072700; 
         transition:all .2s ease-in-out
     }
     .service-item:hover h3,.service-item:hover .service-icon,.service-item:hover .overlay-icon,.service-item:hover p,.service-item:hover .read-more
@@ -804,7 +804,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     }
     .services-list .service-item i{
         font-size:50px;
-        color:#ff0707;
+        color:#072700;
         margin-bottom:10px;
         display:block
     }
@@ -829,7 +829,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     .promo-item i{
         display:block;
         font-size:50px;
-        color:#ff0707;
+        color:#072700;
         margin-bottom:10px
     }
     .promo-item p{
@@ -866,7 +866,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         height:50px;
         line-height:50px;
         text-align:center;
-        background-color:#ff0707;
+        background-color:#072700;
         display:inline-block;
         border-radius:50%;
         margin-bottom:20px;
@@ -1113,7 +1113,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     }
     .counter-content .counter{
         font-family:work sans,sans-serif;
-        color:#ff0707;
+        color:#072700;
         font-size:48px;
         line-height:1;
         font-weight:600;
@@ -1183,7 +1183,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         letter-spacing:1px;
         font-family:work sans,sans-serif;
         padding:5px 10px;
-        background-color:#ff0707;
+        background-color:#072700;
         box-shadow:0 14px 70px -10px rgba(0,0,0,.15);
         text-transform:uppercase;
         font-weight:600;
@@ -1290,7 +1290,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         background-color:#fff;
         position:relative;
         padding:30px;
-        border-left:4px solid #ff0707;
+        border-left:4px solid #072700;
         box-shadow:0 1px 3px rgba(0,0,0,.1)
     }
     .testi-item .fa-quote-right{
@@ -1298,7 +1298,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         right:30px;
         bottom:25px;
         font-size:50px;
-        color:#ff0707;
+        color:#072700;
         opacity:.5
     }
     .testi-content .rattings{
@@ -1310,7 +1310,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     }
     .testi-content .rattings li i{
         font-size:10px;
-        color:#ff0707;
+        color:#072700;
         display:inline-block
     }
     .owl-controls .owl-dots{
@@ -1332,7 +1332,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         text-align:center
     }
     .owl-controls .owl-dots .owl-dot.active{
-        background-color:#ff0707
+        background-color:#072700
     }
     .page-header{
         background-image:url(../img/page-header2.png);
@@ -1435,7 +1435,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         text-decoration:underline
     }
     .error-content .error-info a:hover{
-        color:#ff0707
+        color:#072700
     }
     .contact-section{
         position:relative;
@@ -1468,7 +1468,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         box-shadow:none
     }
     .form-control:focus{
-        border-color:#ff0707;
+        border-color:#072700;
         box-shadow:none;
         outline:none
     }
@@ -1494,7 +1494,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         position:relative
     }
     .blog-item .blog-thumb .category{
-        background-color:#ff0707;
+        background-color:#072700;
         padding:5px 15px;
         text-align:center;
         color:#fff;
@@ -1528,7 +1528,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         line-height:24px
     }
     .blog-content h3 a:hover{
-        color:#ff0707
+        color:#072700
     }
     .blog-content .read-more{
         font-family:work sans,sans-serif;
@@ -1541,7 +1541,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         transition:all 200ms linear 0ms
     }
     .blog-content .read-more:before{
-        background-color:#ff0707;
+        background-color:#072700;
         position:absolute;
         content:"";
         width:20px;
@@ -1551,7 +1551,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         transition:all 200ms linear 0ms
     }
     .blog-content .read-more:hover{
-        color:#ff0707;
+        color:#072700;
         padding-left:40px
     }
     .blog-content .read-more:hover:before{
@@ -1576,18 +1576,18 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         border-radius:2px
     }
     .pagination-wrap li a:hover{
-        background-color:#ff0707;
+        background-color:#072700;
         color:#fff;
         opacity:1;
         text-decoration:none
     }
     .pagination-wrap li a.active{
-        background-color:#ff0707;
-        border:1px solid #ff0707;
+        background-color:#072700;
+        border:1px solid #072700;
         color:#fff
     }
     .dl-menu a.active{
-        color: #ff0707;
+        color: #072700;
     }
     .sidebar-wrap{
         padding-left:40px
@@ -1600,7 +1600,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         margin-bottom:30px
     }
     .sidebar-wrap .widget-content h4:before{
-        background-color:#ff0707;
+        background-color:#072700;
         position:absolute;
         content:"";
         width:20%;
@@ -1681,7 +1681,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         letter-spacing:-.5px
     }
     .thumb-post li a:hover{
-        color:#ff0707;
+        color:#072700;
         text-decoration:underline
     }
     .widget-content .tags{}.widget-content .tags li{
@@ -1689,7 +1689,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     }
     .widget-content .tags li a{
         display:inline-block;
-        background-color:#ff0707;
+        background-color:#072700;
         padding:5px 10px;
         border-radius:2px;
         font-size:12px;
@@ -1709,7 +1709,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         color:#263a4f
     }
     .blog-single-content h2 a:hover{
-        color:#ff0707
+        color:#072700
     }
     .single-post-meta{
         margin-bottom:20px
@@ -1720,7 +1720,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     }
     .single-post-meta li i{
         font-size:12px;
-        color:#ff0707;
+        color:#072700;
         margin-right:5px
     }
     .single-post-meta li a{
@@ -1734,7 +1734,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     blockquote{
         background-color:#f5f5f5;
         padding:40px;
-        border-left:4px solid #ff0707;
+        border-left:4px solid #072700;
         margin:30px 0;
         position:relative;
         z-index:1
@@ -1764,7 +1764,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     }
     .post-tags li a{
         display:inline-block;
-        background-color:#ff0707;
+        background-color:#072700;
         padding:5px 10px;
         border-radius:2px;
         font-size:12px;
@@ -1781,7 +1781,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         align-items:center;
         padding:30px;
         margin-top:30px;
-        border-left:4px solid #ff0707
+        border-left:4px solid #072700
     }
     .author-box img{
         border-radius:50%
@@ -1803,7 +1803,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         color:#263a4f
     }
     .author-box .social-icon li a:hover{
-        color:#ff0707
+        color:#072700
     }
     .post-navigation{
         border:1px solid #e5e5e5;
@@ -1840,7 +1840,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         margin-left:10px
     }
     .post-navigation .col a:hover{
-        color:#ff0707
+        color:#072700
     }
     .post-navigation .col.prev-post .fa{
         margin-right:10px
@@ -1914,14 +1914,14 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         font-family:work sans,sans-serif;
         font-size:12px;
         font-weight:600;
-        color:#ff0707;
+        color:#072700;
         display:inline-block;
         text-transform:uppercase;
         padding-left:35px;
         position:relative
     }
     .blog-single-wrap .comments-area .comment-reply-link:before{
-        background-color:#ff0707;
+        background-color:#072700;
         position:absolute;
         content:"";
         width:30px;
@@ -1951,7 +1951,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         transition:all .3s
     }
     .blog-single-wrap .comment-respond form input:focus,.blog-single-wrap .comment-respond form textarea:focus{
-        border-color:#ff0707
+        border-color:#072700
     }
     .blog-single-wrap .comment-respond form textarea{
         height:200px;
@@ -1971,7 +1971,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     .blog-single-wrap .comment-respond .form-submit input{
         font-family:work sans,sans-serif;
         max-width:180px;
-        background-color:#ff0707;
+        background-color:#072700;
         color:#fff;
         font-weight:600;
         font-size:12px;
@@ -2025,7 +2025,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         line-height:1.9
     }
     .widget-content .widget-links li a:hover{
-        color:#ff0707;
+        color:#072700;
         text-decoration:underline
     }
     .subscribe-form{
@@ -2040,7 +2040,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         border-radius:2px
     }
     .subscribe-form .submit-btn{
-        background-color:#ff0707;
+        background-color:#072700;
         font-family:work sans,sans-serif;
         text-transform:uppercase;
         color:#fff;
@@ -2069,7 +2069,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         margin:0
     }
     #scroll-to-top{
-        background-color:#ff0707;
+        background-color:#072700;
         display:none;
         width:45px;
         height:45px;
@@ -2084,7 +2084,7 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
         z-index:999
     }
     #scroll-to-top:hover{
-        background-color:#ff0707;
+        background-color:#072700;
         color:#fff;
         opacity:.8
     }
