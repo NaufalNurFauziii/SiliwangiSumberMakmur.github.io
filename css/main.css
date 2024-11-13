@@ -2032,10 +2032,11 @@ a,a:hover,.overlay,img,.form-control,.form-control:hover,button{
     }
     .widget-section{
         background-color:#232427;
-        border-bottom:1px solid #333
+        border-bottom:1px solid #333;
+        padding: 3rem 0;
     }
     .widget-content{}.widget-content img{
-        margin-bottom:20px;
+        /* margin-bottom:20px; */
     }
     .widget-section .widget-content h4{
         color:#fff
